@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">It's me</title>
+  <desc id="desc">Mapa visual de tiempo con nodos de familia, estudios, trabajo, relaciones y hobbies.</desc>
+  <rect width="1600" height="900" fill="#ececec"/>
+  <text x="800" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#111">It´s me</text>
+
+  <line x1="220" y1="470" x2="1070" y2="470" stroke="#111" stroke-width="4"/>
+  <circle cx="250" cy="470" r="58" fill="#00c56f"/>
+  <circle cx="450" cy="470" r="58" fill="#b8ff78"/>
+  <circle cx="650" cy="470" r="58" fill="#ffe161"/>
+  <circle cx="850" cy="470" r="58" fill="#f8c15a"/>
+  <circle cx="1050" cy="470" r="58" fill="#ff5f5f"/>
+
+  <text x="250" y="479" text-anchor="middle" font-family="Arial" font-size="30" fill="#111">FAMILIA</text>
+  <text x="450" y="479" text-anchor="middle" font-family="Arial" font-size="30" fill="#111">ESTUDIOS</text>
+  <text x="650" y="479" text-anchor="middle" font-family="Arial" font-size="30" fill="#111">TRABAJO</text>
+  <text x="850" y="463" text-anchor="middle" font-family="Arial" font-size="24" fill="#111">RELACIONES</text>
+  <text x="850" y="495" text-anchor="middle" font-family="Arial" font-size="24" fill="#111">SOCIALES</text>
+  <text x="1050" y="479" text-anchor="middle" font-family="Arial" font-size="32" fill="#111">HOBIES</text>
+
+  <rect x="550" y="585" width="200" height="88" rx="2" fill="#82beef"/>
+  <text x="650" y="645" text-anchor="middle" font-family="Arial" font-size="58" font-weight="700" fill="#111">Tiempo</text>
+
+  <rect x="385" y="745" width="180" height="64" fill="#ff5ec1"/>
+  <text x="475" y="790" text-anchor="middle" font-family="Arial" font-size="46" font-weight="700" fill="#111">Creatividad</text>
+
+  <rect x="780" y="745" width="340" height="64" fill="#8b63ff"/>
+  <text x="950" y="790" text-anchor="middle" font-family="Arial" font-size="50" font-weight="700" fill="#111">Ensayo y Error Vicario</text>
+
+  <rect x="1120" y="258" width="116" height="116" transform="rotate(45 1178 316)" fill="#ffe600"/>
+  <text x="1178" y="332" text-anchor="middle" font-family="Arial" font-size="42" font-weight="700" fill="#111">Gym</text>
+  <rect x="1230" y="348" width="120" height="120" transform="rotate(45 1290 408)" fill="#5b00ff"/>
+  <text x="1290" y="423" text-anchor="middle" font-family="Arial" font-size="40" font-weight="700" fill="#111">Leer</text>
+</svg>

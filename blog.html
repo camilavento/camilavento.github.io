@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog | Camila Vento</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="blog-page">
+    <main class="section blog-layout">
+      <a class="btn btn-outline" href="index.html">← Volver al inicio</a>
+      <h1 class="blog-title">It´s me</h1>
+      <p class="lead">Usa los botones para acercar o alejar la imagen.</p>
+
+      <div class="zoom-controls" aria-label="Controles de zoom">
+        <button class="btn btn-ghost" type="button" id="zoom-out">-</button>
+        <button class="btn" type="button" id="zoom-reset">100%</button>
+        <button class="btn btn-ghost" type="button" id="zoom-in">+</button>
+      </div>
+
+      <div class="image-frame">
+        <img id="blog-image" src="assets/its-me.svg" alt="Mapa visual It´s me" />
+      </div>
+    </main>
+
+    <script src="blog.js"></script>
+  </body>
+</html>
